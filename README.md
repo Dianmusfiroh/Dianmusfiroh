@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-I am Dian Musfiroh, people call me Dian, I'm currently a software engineer at [Klikdigital Indonesia](https://klikdigital.co.id/) based in Indonesia. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Dian Musfiroh, people call me Dian, I'm currently a Back End Developer at [Klikdigital Indonesia](https://klikdigital.co.id/) based in Indonesia. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dianmusfiroh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dian-musfiroh/)](https://www.linkedin.com/in/dian-musfiroh/)
 [![Instagram Badge](https://img.shields.io/badge/-dianmusfiroh-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dianmusfiroh/)](https://www.instagram.com/dianmusfiroh/)
